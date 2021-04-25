@@ -1,4 +1,4 @@
-#**Django_image_uploader_website**
+# **_Django_image_uploader_website_**
 
 This project Mainly focuses on uploading the images and showing them on the home page using Django.
 
